@@ -35,3 +35,7 @@ Demo para que el cliente chatee con el agente de IA desde cualquier navegador, s
 ## Cambiar precios
 
 Los precios del tarifario son de ejemplo. Edítalos en `DEFAULT_TARIFARIO` dentro de `index.html` y vuelve a publicar (Vercel publica solo al hacer push).
+
+## Estado
+
+Publicado en https://sevamo-jmtours-agente-demo.netlify.app con `ANTHROPIC_API_KEY` y `DEMO_CODE` configurados en Netlify.
